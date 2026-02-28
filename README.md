@@ -15,8 +15,6 @@ python manage.py runserver
  Link usage: 
 http://127.0.0.1:8000/api/ayah/sad/
 
-
-
 Available moods: `happy`, `sad`, `numb`, `angry`
 
 
