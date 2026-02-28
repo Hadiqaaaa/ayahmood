@@ -6,9 +6,13 @@ Django REST Framework
 
  cmds:
 git clone 
+
 cd ayahmood
+
 pip install django djangorestframework requests
+
 for db : python manage.py migrate
+
 python manage.py runserver
 
 
